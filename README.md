@@ -1,7 +1,7 @@
 ### Hi there, this is Iridescent trajectory 👋
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=zhuangrenyang&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuangrenyang&show_icons=true&theme=radical)
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zhuangrenyang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
 - 🔭 I’m currently working on Java development;
