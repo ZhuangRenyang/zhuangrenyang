@@ -10,7 +10,7 @@
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I wanna be a game developer 😃
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuangrenyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuangrenyang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
