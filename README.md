@@ -4,7 +4,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://camo.githubusercontent.com/bdd6d414bb4f2ff739f7468253f61e53e5c82f8922276e8d9012c04b9d8cbd11/68747470733a2f2f73312e7870746f752e636f6d2f323032322f30392f31322f363331663365373965636533642e77656270" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://camo.githubusercontent.com/a9afb54ac43c2c0a41fea0dd2a731298db5a207d6a82c42afcc95106d5e43088/68747470733a2f2f7a34612e6e65742f696d616765732f323032332f30382f31342f707573682e77656270" width="300" height="100%" /></div>
 
 - 大家好，我是🌠，来自江苏苏州
 - 目前是一名全栈开发者
