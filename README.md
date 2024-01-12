@@ -40,7 +40,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ZhuangRenyang&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/ZhuangRenyang/hexo-theme-Fomalhaut)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ZhuangRenyang&repo=zhuangrenyang.github.io&theme=tokyonight)](https://github.com/ZhuangRenyang/zhuangrenyang.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ZhuangRenyang&repo=recruit_system&theme=tokyonight)](https://github.com/ZhuangRenyang/recruit_system)
 <br>
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
