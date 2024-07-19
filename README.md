@@ -16,7 +16,7 @@
 
 
 
-- <a href="https://ovoz.cn"><img height="22" width="22" src="https://ovoz.cn/favicon.ico"></a>：个人网站，访问量累计30k+
+- <a href="https://illlli.com"><img height="22" width="22" src="https://illlli.com/favicon.ico"></a>：个人网站，访问量累计30k+
 - <a href="https://space.bilibili.com/384057775"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10k+
 
 
