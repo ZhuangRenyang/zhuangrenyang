@@ -16,7 +16,7 @@
 
 
 
-- <a href="https://illlli.com"><img height="22" width="22" src="https://illlli.com/favicon.ico"></a>：个人网站，访问量累计30k+
+- <a href="https://ila.cc.cd"><img height="22" width="22" src="https://ila.cc.cd/favicon.ico"></a>：个人网站，访问量累计30k+
 - <a href="https://space.bilibili.com/384057775"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10k+
 
 
@@ -60,6 +60,6 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://ovoz.cn/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://ila.cc.cd/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>
