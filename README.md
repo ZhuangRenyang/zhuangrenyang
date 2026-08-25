@@ -56,10 +56,6 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy-tawny.vercel.app/?username=ZhuangRenyang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
-
 <br>
 
 ### 投喂作者🍭🍭🍭
