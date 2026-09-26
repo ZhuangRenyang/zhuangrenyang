@@ -12,7 +12,7 @@
 
 ### 社交主页
 
-- <a href="https://ila.cc.cd"><img height="22" width="22" src="https://ila.cc.cd/favicon.ico"></a>：个人网站，访问量累计30k+
+- <a href="https://cati.cc.cd"><img height="22" width="22" src="https://cati.cc.cd/favicon/favicon.ico"></a>：个人网站，访问量累计30k+
 - <a href="https://space.bilibili.com/384057775"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量10k+
 
 <!-- 贪吃蛇代码贡献图 -->
