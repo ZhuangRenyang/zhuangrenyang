@@ -54,11 +54,3 @@
 ![Cursor](https://img.shields.io/badge/-cursor-13130C?style=flat-square&logo=cursor)
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-
-<br>
-
-### 投喂作者🍭🍭🍭
-
-<a href="https://ila.cc.cd/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
-
-<br>
